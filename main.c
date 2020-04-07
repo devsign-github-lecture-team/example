@@ -10,5 +10,10 @@ int main(void)
     print_0x4d();
     print_gksrlf();
     print_Phudal();
+#include "mj063.h"
+
+int main(void) {
+    printf("hello world!");
+    print_mj063();
     return 0;
 }
