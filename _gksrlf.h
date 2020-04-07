@@ -1,3 +1,3 @@
-void print _gksrlf() {
+void print_gksrlf() {
   printf("gksrlf here");
   }
