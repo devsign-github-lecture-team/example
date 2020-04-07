@@ -1,4 +1,4 @@
-void print _Phudal()
+void print_Phudal()
 {
     printf("Phudal here");
 }
